@@ -1,0 +1,14 @@
+layout_spectrum: 0.5033727
+color:
+  saturation: 0.4373374
+  lightness: 0.1273187
+  brandStrength: 0.8111299
+  brandColors:
+    - '#30261E'
+    - '#878888'
+    - '#910C03'
+    - '#F1FBFB'
+    - '#CF6516'
+  rhythmicContrast: 0.2070855
+typography_spectrum: 0.925801
+name: Grid trial
